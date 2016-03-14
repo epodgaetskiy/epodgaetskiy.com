@@ -1,0 +1,135 @@
+/* line 10, ../../sass/skins/blue.sass */
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+/* line 14, ../../sass/skins/blue.sass */
+a {
+  color: #2EA2CC; }
+
+/* line 17, ../../sass/skins/blue.sass */
+p,
+body .main_footer,
+.s_about li {
+  color: #888; }
+
+/* line 22, ../../sass/skins/blue.sass */
+.color_element {
+  color: #2EA2CC; }
+
+/* line 24, ../../sass/skins/blue.sass */
+.color_bg {
+  background-color: #2EA2CC; }
+
+/* line 26, ../../sass/skins/blue.sass */
+.color_border {
+  border-color: #2EA2CC; }
+
+/* line 28, ../../sass/skins/blue.sass */
+.bg_light {
+  background-color: #FAFAFA; }
+
+/* line 30, ../../sass/skins/blue.sass */
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  /* line 33, ../../sass/skins/blue.sass */
+  .bg_dark .s_decription::after {
+    background-color: #fff; }
+  /* line 35, ../../sass/skins/blue.sass */
+  .bg_dark a {
+    color: #fff; }
+
+/* line 39, ../../sass/skins/blue.sass */
+svg path {
+  fill: #f88b16; }
+
+/* line 43, ../../sass/skins/blue.sass */
+.top_menu a:hover {
+  color: #2EA2CC; }
+/* line 45, ../../sass/skins/blue.sass */
+.top_menu a {
+  letter-spacing: 4px; }
+
+/* line 48, ../../sass/skins/blue.sass */
+.top_text p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+/* line 52, ../../sass/skins/blue.sass */
+.personal_header {
+  letter-spacing: 3px; }
+
+/* line 55, ../../sass/skins/blue.sass */
+.s_decription {
+  letter-spacing: 5px; }
+  /* line 57, ../../sass/skins/blue.sass */
+  .s_decription::after {
+    background-color: #222; }
+
+/* line 61, ../../sass/skins/blue.sass */
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+/* line 66, ../../sass/skins/blue.sass */
+.s_about p:nth-child(even) {
+  color: #2EA2CC; }
+
+/* line 70, ../../sass/skins/blue.sass */
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 1px; }
+
+/* line 75, ../../sass/skins/blue.sass */
+.resume_item .year {
+  background-color: #2EA2CC;
+  color: #fff; }
+/* line 78, ../../sass/skins/blue.sass */
+.resume_item .resume_description {
+  letter-spacing: 1px; }
+
+/* line 82, ../../sass/skins/blue.sass */
+.s_portfolio li {
+  color: #888;
+  letter-spacing: 2px; }
+  /* line 85, ../../sass/skins/blue.sass */
+  .s_portfolio li.active {
+    color: #fff;
+    border-bottom: 1px solid #2EA2CC; }
+
+/* line 90, ../../sass/skins/blue.sass */
+.portfolio_item .port_item_container a {
+  border-color: #2EA2CC;
+  color: #2EA2CC; }
+
+/* line 94, ../../sass/skins/blue.sass */
+.main_footer a {
+  color: #2EA2CC; }
+
+/* line 97, ../../sass/skins/blue.sass */
+.contacts_icon {
+  color: #2EA2CC; }
+
+/* line 100, ../../sass/skins/blue.sass */
+.text-danger {
+  color: #2EA2CC; }
+
+/* line 104, ../../sass/skins/blue.sass */
+form input:focus,
+form textarea:focus {
+  border: 1px solid #2EA2CC; }
+/* line 107, ../../sass/skins/blue.sass */
+form input,
+form textarea {
+  letter-spacing: 2px; }
+/* line 110, ../../sass/skins/blue.sass */
+form button {
+  background-color: #2EA2CC;
+  letter-spacing: 2px; }
+/* line 113, ../../sass/skins/blue.sass */
+form .form-group {
+  letter-spacing: 2px;
+  color: #888; }
+
+/*# sourceMappingURL=blue.css.map */

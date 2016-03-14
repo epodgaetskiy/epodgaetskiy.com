@@ -1,0 +1,135 @@
+/* line 10, ../../sass/skins/tomato.sass */
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+/* line 14, ../../sass/skins/tomato.sass */
+a {
+  color: #ec7b2f; }
+
+/* line 17, ../../sass/skins/tomato.sass */
+p,
+body .main_footer,
+.s_about li {
+  color: #888; }
+
+/* line 22, ../../sass/skins/tomato.sass */
+.color_element {
+  color: #ec7b2f; }
+
+/* line 24, ../../sass/skins/tomato.sass */
+.color_bg {
+  background-color: #ec7b2f; }
+
+/* line 26, ../../sass/skins/tomato.sass */
+.color_border {
+  border-color: #ec7b2f; }
+
+/* line 28, ../../sass/skins/tomato.sass */
+.bg_light {
+  background-color: #FAFAFA; }
+
+/* line 30, ../../sass/skins/tomato.sass */
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  /* line 33, ../../sass/skins/tomato.sass */
+  .bg_dark .s_decription::after {
+    background-color: #fff; }
+  /* line 35, ../../sass/skins/tomato.sass */
+  .bg_dark a {
+    color: #fff; }
+
+/* line 39, ../../sass/skins/tomato.sass */
+svg path {
+  fill: #f88b16; }
+
+/* line 43, ../../sass/skins/tomato.sass */
+.top_menu a:hover {
+  color: #ec7b2f; }
+/* line 45, ../../sass/skins/tomato.sass */
+.top_menu a {
+  letter-spacing: 4px; }
+
+/* line 48, ../../sass/skins/tomato.sass */
+.top_text p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+/* line 52, ../../sass/skins/tomato.sass */
+.personal_header {
+  letter-spacing: 3px; }
+
+/* line 55, ../../sass/skins/tomato.sass */
+.s_decription {
+  letter-spacing: 5px; }
+  /* line 57, ../../sass/skins/tomato.sass */
+  .s_decription::after {
+    background-color: #222; }
+
+/* line 61, ../../sass/skins/tomato.sass */
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+/* line 66, ../../sass/skins/tomato.sass */
+.s_about p:nth-child(even) {
+  color: #ec7b2f; }
+
+/* line 70, ../../sass/skins/tomato.sass */
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 1px; }
+
+/* line 75, ../../sass/skins/tomato.sass */
+.resume_item .year {
+  background-color: #ec7b2f;
+  color: #fff; }
+/* line 78, ../../sass/skins/tomato.sass */
+.resume_item .resume_description {
+  letter-spacing: 1px; }
+
+/* line 82, ../../sass/skins/tomato.sass */
+.s_portfolio li {
+  color: #888;
+  letter-spacing: 2px; }
+  /* line 85, ../../sass/skins/tomato.sass */
+  .s_portfolio li.active {
+    color: #fff;
+    border-bottom: 1px solid #ec7b2f; }
+
+/* line 90, ../../sass/skins/tomato.sass */
+.portfolio_item .port_item_container a {
+  border-color: #ec7b2f;
+  color: #ec7b2f; }
+
+/* line 94, ../../sass/skins/tomato.sass */
+.main_footer a {
+  color: #ec7b2f; }
+
+/* line 97, ../../sass/skins/tomato.sass */
+.contacts_icon {
+  color: #ec7b2f; }
+
+/* line 100, ../../sass/skins/tomato.sass */
+.text-danger {
+  color: #ec7b2f; }
+
+/* line 104, ../../sass/skins/tomato.sass */
+form input:focus,
+form textarea:focus {
+  border: 1px solid #ec7b2f; }
+/* line 107, ../../sass/skins/tomato.sass */
+form input,
+form textarea {
+  letter-spacing: 2px; }
+/* line 110, ../../sass/skins/tomato.sass */
+form button {
+  background-color: #ec7b2f;
+  letter-spacing: 2px; }
+/* line 113, ../../sass/skins/tomato.sass */
+form .form-group {
+  letter-spacing: 2px;
+  color: #888; }
+
+/*# sourceMappingURL=tomato.css.map */
